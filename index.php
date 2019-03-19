@@ -14,4 +14,5 @@ function datum() {
 $mydatum=datum();
      print("Hello World - Greetings from RoHa op $mydatum \n");
 
+     sleep(10);
 ?>
