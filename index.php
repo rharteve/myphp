@@ -2,7 +2,7 @@
 
 function datum() {
       date_default_timezone_set('UTC');
-      echo date('l');
+     // echo date('l');
 
      $datum=date("l d-m-y"); 
      return  $datum;
